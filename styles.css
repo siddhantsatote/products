@@ -87,8 +87,7 @@ button {
     text-align: center;
     display:inline-block;
     box-shadow: -1px 15px 30px -12px rgb(32, 32, 32);
-    background-color:rgb(144, 144, 144);
-    padding: 1rem;
+    background-color::rgb(255, 255, 255)
     border-radius: 1rem;
     align-items: center;
 }
